@@ -1,6 +1,8 @@
 # Checkerboard-MC
 Checkerboard Texture Pack for Minecraft
 
+Adds checkerboard textures (duh!) to minecraft.
+
 Recommended Shader : Raspberry Public4 / Or Continuuum if you want POM.
 
 Use it at your own risk.
