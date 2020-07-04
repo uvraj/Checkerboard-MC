@@ -1,11 +1,13 @@
 # Checkerboard-MC
 Checkerboard Texture Pack for Minecraft
 
-Use it as your own risk.
+Recommended Shader : Raspberry Public4 / Or Continuuum if you want POM.
 
-Unzip the goddamn zip into your RP folder before you do anything.
+Use it at your own risk.
 
-_DONT F*CKIN STEAL MY TEXTURES OR ILL SUE YOU._
+Unzip the zip into your RP folder before you do anything.
+
+_DONT STEAL MY TEXTURES OR ILL SUE YOU._
 
  Actually, who would steal my bad af textures :}
 
