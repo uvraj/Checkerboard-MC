@@ -11,5 +11,9 @@ Unzip the zip into your RP folder before you do anything.
 
 Shader wth Specular and Normal support recommended
 
-h
+Images
+
+https://imgur.com/a/kUBzR1y
+
+https://imgur.com/a/8bZcmEZ
 
