@@ -9,7 +9,7 @@ Use it at your own risk.
 
 Unzip the zip into your RP folder before you do anything.
 
-Shader wth Specular and Normal support recommended
+Shader with Specular and Normal support recommended
 
 Images
 
